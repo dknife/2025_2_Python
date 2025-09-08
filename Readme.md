@@ -16,6 +16,6 @@
 ### 과제 1
 집에 있는 컴퓨터나 가지고 있는 노트북에 파이썬을 설치하여 간단한 메시지를 출력하는 프로그램을 작성해 본다.
 
-## Lec 0: 파이썬 설치
+## Lec 1: 파이썬 소개와 설치
 
-[파이썬 설치](https://github.com/dknife/2025_2_Python/raw/main/Lectures/1%EC%9E%A5_%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%86%8C%EA%B0%9C.pdf)
+[파이썬 소개와 설치](https://github.com/dknife/2025_2_Python/raw/main/Lectures/1%EC%9E%A5_%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%86%8C%EA%B0%9C.pdf)
