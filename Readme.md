@@ -19,3 +19,5 @@
 ## Lec 1: 파이썬 소개와 설치
 
 [파이썬 소개와 설치](https://github.com/dknife/2025_2_Python/raw/main/Lectures/1%EC%9E%A5_%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%86%8C%EA%B0%9C.pdf)
+
+* [실습 1 간단한 파이썬 실습](https://github.com/dknife/2025_2_Python/tree/main/Lectures/Lec01Ex)
