@@ -33,4 +33,5 @@
 
 [변수와 연산자](https://github.com/dknife/2025_2_Python/raw/main/Lectures/2%EC%9E%A5_%EB%B3%80%EC%88%98%EC%99%80%EC%97%B0%EC%82%B0%EC%9E%90.pdf)
 
-* [실습 2 구글 코랩 - 다양한 문제 풀어보기](https://colab.research.google.com/drive/1lEjsDMkY-YdrbyGnT6GcnSUUCgVz2JUV?usp=sharing)
+* [실습 2-1 수업중](https://github.com/dknife/2025_2_Python/tree/main/Lectures/Lec02)
+* [실습 2-2 구글 코랩 - 다양한 문제 풀어보기](https://colab.research.google.com/drive/1lEjsDMkY-YdrbyGnT6GcnSUUCgVz2JUV?usp=sharing)
