@@ -23,3 +23,8 @@
 * [실습 1 간단한 파이썬 실습](https://github.com/dknife/2025_2_Python/tree/main/Lectures/Lec01Ex)
 
 * [실습 2 구글 코랩](https://colab.research.google.com/drive/1dp5Mph3oMCkQZTp73zoHmM0-WTNR522D?usp=sharing)
+
+
+## Lec 2: 변수와 연산자로 계산해 보기
+
+[변수와 연산자]()
