@@ -27,4 +27,4 @@
 
 ## Lec 2: 변수와 연산자로 계산해 보기
 
-[변수와 연산자](https://github.com/dknife/2025_2_Python/blob/main/Lectures/2%EC%9E%A5_%EB%B3%80%EC%88%98%EC%99%80%EC%97%B0%EC%82%B0%EC%9E%90.pdf)
+[변수와 연산자](https://github.com/dknife/2025_2_Python/raw/main/Lectures/2%EC%9E%A5_%EB%B3%80%EC%88%98%EC%99%80%EC%97%B0%EC%82%B0%EC%9E%90.pdf)
