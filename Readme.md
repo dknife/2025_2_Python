@@ -35,3 +35,9 @@
 
 * [실습 2-1 수업중](https://github.com/dknife/2025_2_Python/tree/main/Lectures/Lec02)
 * [실습 2-2 구글 코랩 - 다양한 문제 풀어보기](https://colab.research.google.com/drive/1lEjsDMkY-YdrbyGnT6GcnSUUCgVz2JUV?usp=sharing)
+
+
+## Lec 3: 제어와 함수
+
+[제어와 함수]()
+
