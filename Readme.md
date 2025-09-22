@@ -39,5 +39,5 @@
 
 ## Lec 3: 제어와 함수
 
-[제어와 함수]()
+[제어와 함수](https://github.com/dknife/2025_2_Python/raw/main/Lectures/3%EC%9E%A5_%EC%A0%9C%EC%96%B4%EC%99%80%ED%95%A8%EC%88%98.pdf)
 
