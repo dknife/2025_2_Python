@@ -39,10 +39,10 @@
 
 ## Lec 3: 제어문의 이해
 
-[제어문의 이해](https://github.com/dknife/2025_2_Python/blob/main/Lectures/3%EC%9E%A5_%EC%A0%9C%EC%96%B4%EB%AC%B8.pdf)
+[제어문의 이해](https://github.com/dknife/2025_2_Python/raw/main/Lectures/3%EC%9E%A5_%EC%A0%9C%EC%96%B4%EB%AC%B8.pdf)
 
 * [실습 3-1 수업중 제어 실습](https://colab.research.google.com/drive/1NBnlHpYOUe7eDunTLBc0dVGW8rKM9bLD?usp=sharing)
 
 ## Lec 4: 함수와 클래스
 
-[함수와 클래스](https://github.com/dknife/2025_2_Python/raw/main/Lectures/3%EC%9E%A5_%EC%A0%9C%EC%96%B4%EC%99%80%ED%95%A8%EC%88%98.pdf)
+[함수와 클래스](https://github.com/dknife/2025_2_Python/raw/main/Lectures/4%EC%9E%A5_%ED%95%A8%EC%88%98%EC%99%80%ED%81%B4%EB%9E%98%EC%8A%A4.pdf)
