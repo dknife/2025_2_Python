@@ -37,8 +37,12 @@
 * [실습 2-2 구글 코랩 - 다양한 문제 풀어보기](https://colab.research.google.com/drive/1lEjsDMkY-YdrbyGnT6GcnSUUCgVz2JUV?usp=sharing)
 
 
-## Lec 3: 제어와 함수
+## Lec 3: 제어문의 이해
 
-[제어와 함수](https://github.com/dknife/2025_2_Python/raw/main/Lectures/3%EC%9E%A5_%EC%A0%9C%EC%96%B4%EC%99%80%ED%95%A8%EC%88%98.pdf)
+[제어문의 이해](https://github.com/dknife/2025_2_Python/raw/main/Lectures/3%EC%9E%A5_%EC%A0%9C%EC%96%B4%EC%99%80%ED%95%A8%EC%88%98.pdf)
 
 * [실습 3-1 수업중 제어 실습](https://colab.research.google.com/drive/1NBnlHpYOUe7eDunTLBc0dVGW8rKM9bLD?usp=sharing)
+
+## Lec 4: 함수와 클래스
+
+[함수와 클래스](https://github.com/dknife/2025_2_Python/raw/main/Lectures/3%EC%9E%A5_%EC%A0%9C%EC%96%B4%EC%99%80%ED%95%A8%EC%88%98.pdf)
