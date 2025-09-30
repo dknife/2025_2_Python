@@ -48,3 +48,4 @@
 [함수와 클래스](https://github.com/dknife/2025_2_Python/raw/main/Lectures/4%EC%9E%A5_%ED%95%A8%EC%88%98%EC%99%80%ED%81%B4%EB%9E%98%EC%8A%A4.pdf)
 
 * [실습 4-1 수업중 함수, 클래스 실습](https://colab.research.google.com/drive/17Z66hNV-6dxwfqIx7JyN8_XbWxLqQzn5?usp=sharing)
+* [클래스 실습](https://github.com/dknife/2025_2_Python/tree/main/Lectures/Classes)
