@@ -55,4 +55,8 @@
 
 ## Lec 5: 모듈의 이해
 
-[모듈의 이해](https://github.com/dknife/2025_2_Python/blob/main/Lectures/5%EA%B0%95_%EB%AA%A8%EB%93%88%EC%9D%98%EC%9D%B4%ED%95%B4.pdf)
+[모듈의 이해](https://github.com/dknife/2025_2_Python/raw/main/Lectures/5%EA%B0%95_%EB%AA%A8%EB%93%88%EC%9D%98%EC%9D%B4%ED%95%B4.pdf)
+
+### 실습 
+
+[내가 만든 모듈 활용](https://github.com/dknife/2025_2_Python/tree/main/Lectures/module)
