@@ -52,3 +52,7 @@
 * [클래스 실습](https://github.com/dknife/2025_2_Python/tree/main/Lectures/Classes)
 
     % pip install pygame  실행 후 구동 가능
+
+## Lec 5: 모듈의 이해
+
+[모듈의 이해](https://github.com/dknife/2025_2_Python/blob/main/Lectures/5%EA%B0%95_%EB%AA%A8%EB%93%88%EC%9D%98%EC%9D%B4%ED%95%B4.pdf)
