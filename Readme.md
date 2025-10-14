@@ -61,4 +61,4 @@
 
 [내가 만든 모듈 활용](https://github.com/dknife/2025_2_Python/tree/main/Lectures/module)
 
-[Standard Library]()
+[Standard Library](https://github.com/dknife/2025_2_Python/tree/main/Lectures/standard_lib)
