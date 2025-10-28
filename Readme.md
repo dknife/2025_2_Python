@@ -69,5 +69,6 @@
 
 * [실습 6-1 넘파이 활용](https://github.com/dknife/2025_2_Python/blob/main/Lectures/Lec06/ex01_numpy.py)
 * [실습 6-2 차트 그리기](https://github.com/dknife/2025_2_Python/blob/main/Lectures/Lec06/ex02_chart.py)
-* [실습 6-3 웹 정보 얻기]
-* [실습 6-4 워드 클라우드]
+* [실습 6-3 QR 만들기]
+* [실습 6-4 웹 정보 얻기]
+* [실습 6-5 워드 클라우드]
