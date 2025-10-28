@@ -65,4 +65,4 @@
 
 ## Lec 6: 외부 모듈으 설치와 활용
 
-[외부 모듈의 이해]()
+[외부 모듈의 이해](https://github.com/dknife/2025_2_Python/raw/main/Lectures/6%EA%B0%95_%EC%99%B8%EB%B6%80%EB%AA%A8%EB%93%88%EC%84%A4%EC%B9%98.pdf)
