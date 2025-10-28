@@ -67,7 +67,7 @@
 
 [외부 모듈의 이해](https://github.com/dknife/2025_2_Python/raw/main/Lectures/6%EA%B0%95_%EC%99%B8%EB%B6%80%EB%AA%A8%EB%93%88%EC%84%A4%EC%B9%98.pdf)
 
-* [실습 6-1 넘파이 활용]()
-* [실습 6-2 차트 그리기]()
+* [실습 6-1 넘파이 활용](https://github.com/dknife/2025_2_Python/blob/main/Lectures/Lec06/ex01_numpy.py)
+* [실습 6-2 차트 그리기](https://github.com/dknife/2025_2_Python/blob/main/Lectures/Lec06/ex02_chart.py)
 * [실습 6-3 웹 정보 얻기]
 * [실습 6-4 워드 클라우드]
