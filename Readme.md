@@ -62,3 +62,7 @@
 [내가 만든 모듈 활용](https://github.com/dknife/2025_2_Python/tree/main/Lectures/module)
 
 [Standard Library](https://github.com/dknife/2025_2_Python/tree/main/Lectures/standard_lib)
+
+## Lec 6: 외부 모듈으 설치와 활용
+
+[외부 모듈의 이해]()
