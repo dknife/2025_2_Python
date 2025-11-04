@@ -76,5 +76,5 @@
  
 ## Lec 7: IDE
 
-[고급 IDE를 이용한 프로그래밍]()
+[고급 IDE를 이용한 프로그래밍](https://github.com/dknife/2025_2_Python/raw/main/Lectures/7%EA%B0%95_%EA%B3%A0%EA%B8%89IDE.pdf)
 
