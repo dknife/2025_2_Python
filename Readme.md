@@ -72,3 +72,9 @@
 * [실습 6-3 QR 만들기](https://github.com/dknife/2025_2_Python/blob/main/Lectures/Lec06/ex03_qrcode.py)
 * [실습 6-4 웹 정보 얻기]
 * [실습 6-5 워드 클라우드]
+
+ 
+## Lec 7: IDE
+
+[고급 IDE를 이용한 프로그래밍]()
+
