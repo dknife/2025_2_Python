@@ -81,4 +81,7 @@
 
 [고급 IDE를 이용한 프로그래밍](https://github.com/dknife/2025_2_Python/raw/main/Lectures/7%EA%B0%95_%EA%B3%A0%EA%B8%89IDE.pdf)
 
-** [실습 7 전체: IDE, 외부모듈, 인공지능 활용](https://github.com/dknife/2025_2_Python/tree/main/Lectures/CodeProject)
+* [실습 7 전체: IDE, 외부모듈, 인공지능 활용](https://github.com/dknife/2025_2_Python/tree/main/Lectures/CodeProject)
+
+## Lec 8: 리스트 자료형
+[리스트 자료형]()
