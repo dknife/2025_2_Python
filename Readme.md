@@ -73,6 +73,9 @@
 * [실습 6-4 웹 정보 얻기]
 * [실습 6-5 워드 클라우드]
 
+## Lec 7: 리스트 자료형
+
+[리스트 자료형의 이해](https://github.com/dknife/2025_2_Python/raw/main/Lectures/8%EA%B0%95_%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%9E%90%EB%A3%8C%ED%98%95.pdf)
  
 ## Lec 7: IDE
 
