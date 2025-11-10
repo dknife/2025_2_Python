@@ -84,4 +84,4 @@
 * [실습 7 전체: IDE, 외부모듈, 인공지능 활용](https://github.com/dknife/2025_2_Python/tree/main/Lectures/CodeProject)
 
 ## Lec 8: 리스트 자료형
-[리스트 자료형]()
+[리스트 자료형](https://github.com/dknife/2025_2_Python/raw/main/Lectures/8%EA%B0%95_%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%9E%90%EB%A3%8C%ED%98%95.pdf)
