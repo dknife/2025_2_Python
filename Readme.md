@@ -85,3 +85,5 @@
 
 ## Lec 8: 리스트 자료형
 [리스트 자료형](https://github.com/dknife/2025_2_Python/raw/main/Lectures/8%EA%B0%95_%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%9E%90%EB%A3%8C%ED%98%95.pdf)
+
+* [실습 8-1 리스트 활용](https://github.com/dknife/2025_2_Python/tree/main/Lectures/Lec08_List)
