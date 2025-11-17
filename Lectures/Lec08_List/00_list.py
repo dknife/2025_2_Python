@@ -1,7 +1,7 @@
 n = 1000
 numbers = list(range(n))
 
-# 아르키메데스의 체를 이용하여 소수를 구하라.
+# 에라토스테네스의 체를 이용하여 소수를 구하라.
 def make_prime_list(numbers, start, end):
     # 직접 짜게 해 주세요
     for i in range(start, end):
@@ -22,4 +22,5 @@ print(numbers)
 # 고수가 쓰는 코드
 primes = [num for num in numbers if num != -1]
 print(primes)
+
 
