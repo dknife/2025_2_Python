@@ -88,7 +88,12 @@
 
 * [실습 8-1 리스트 활용](https://github.com/dknife/2025_2_Python/tree/main/Lectures/Lec08_List)
 
+
 ## Lec 9: GUI와 실행파일 생성
 [GUI와 실행파일 생성](https://github.com/dknife/2025_2_Python/raw/main/Lectures/9%EA%B0%95_GUI%20%EC%8B%A4%ED%96%89%ED%8C%8C%EC%9D%BC.pdf)
 
 * [실습 9-1 그래픽 사용자 인터페이스 실습](https://github.com/dknife/2025_2_Python/tree/main/Lectures/GUI)
+
+
+## Lec 9: 나만의 프로젝트 연습
+()
