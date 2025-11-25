@@ -98,4 +98,6 @@
 ## Lec 9: 나만의 프로젝트 연습
 [나만의 프로젝트](https://github.com/dknife/2025_2_Python/raw/main/Lectures/10%EA%B0%95_%EB%82%98%EB%A7%8C%EC%9D%98%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)
 
-* [ollama를 이용한 답변 구하기](https://github.com/dknife/2025_2_Python/tree/main/Lectures/myProjects)
+* [ollama를 이용한 답변 구하기](https://github.com/dknife/2025_2_Python/tree/main/Lectures/myProjects/01_chat.py)
+* [챗봇](https://github.com/dknife/2025_2_Python/tree/main/Lectures/myProjects/02_chatbot.py)
+* [이미지 로더](https://github.com/dknife/2025_2_Python/blob/main/Lectures/myProjects/03_imgLoader.py)
