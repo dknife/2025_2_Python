@@ -104,3 +104,4 @@
 * [ollama를 이용한 답변 구하기](https://github.com/dknife/2025_2_Python/tree/main/Lectures/myProjects/01_chat.py)
 * [챗봇](https://github.com/dknife/2025_2_Python/tree/main/Lectures/myProjects/02_chatbot.py)
 * [이미지 로더](https://github.com/dknife/2025_2_Python/blob/main/Lectures/myProjects/03_imgLoader.py)
+* [전경 로더](https://github.com/dknife/2025_2_Python/blob/main/Lectures/myProjects/04_fgloader.py)
