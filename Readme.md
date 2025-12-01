@@ -105,3 +105,6 @@
 * [챗봇](https://github.com/dknife/2025_2_Python/tree/main/Lectures/myProjects/02_chatbot.py)
 * [이미지 로더](https://github.com/dknife/2025_2_Python/blob/main/Lectures/myProjects/03_imgLoader.py)
 * [전경 로더](https://github.com/dknife/2025_2_Python/blob/main/Lectures/myProjects/04_fgloader.py)
+
+### Lec 10 바이브 코딩
+[바이브 코딩 소개 자료(외부)](https://jvibeschool.com/blog/p/583)
