@@ -66,7 +66,7 @@
 
 [Standard Library](https://github.com/dknife/2025_2_Python/tree/main/Lectures/standard_lib)
 
-## Lec 6: 외부 모듈으 설치와 활용
+## Lec 6: 외부 모듈의 설치와 활용
 
 [외부 모듈의 이해](https://github.com/dknife/2025_2_Python/raw/main/Lectures/6%EA%B0%95_%EC%99%B8%EB%B6%80%EB%AA%A8%EB%93%88%EC%84%A4%EC%B9%98.pdf)
 
@@ -110,3 +110,8 @@
 [바이브 코딩 소개 자료(외부)](https://jvibeschool.com/blog/p/583)
 
 * [수업중 바이브 코딩으로 만들어 본 결과](https://github.com/dknife/2025_2_Python/tree/main/Lectures/Lec10)
+
+### Lec 11 프로젝트 연습
+
+### Lec 12 기말고사 문제 후보
+[문제 유형]()
