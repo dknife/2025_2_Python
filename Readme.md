@@ -114,4 +114,4 @@
 ### Lec 11 프로젝트 연습
 
 ### Lec 12 기말고사 문제 후보
-[문제 유형]()
+[문제 유형](https://github.com/dknife/2025_2_Python/raw/main/Lectures/%EB%AC%B8%EC%A0%9C%ED%9B%84%EB%B3%B4.pdf)
