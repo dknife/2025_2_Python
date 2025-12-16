@@ -2,6 +2,8 @@
 
 ## [기말고사](https://github.com/dknife/2025_2_Python/raw/main/Lectures/202502_%EA%B8%B0%EB%A7%90%EA%B3%A0%EC%82%AC_%ED%8C%8C%EC%9D%B4%EC%8D%AC.pdf)
 
+배점: 선다형 60점 + 구현형 40점
+
 동명대학교 게임학부 강영민 교수
 
 수업의 목표: 파이썬 프로그래밍을 통해 컴퓨터에게 다양한 동작을 수행하도록 하여 문제를 해결할 수 있다.
