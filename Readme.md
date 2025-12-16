@@ -115,3 +115,5 @@
 
 ### Lec 12 기말고사 문제 후보
 [문제 유형](https://github.com/dknife/2025_2_Python/raw/main/Lectures/%EB%AC%B8%EC%A0%9C%ED%9B%84%EB%B3%B4.pdf)
+
+### [기말고사](https://github.com/dknife/2025_2_Python/raw/main/Lectures/202502_%EA%B8%B0%EB%A7%90%EA%B3%A0%EC%82%AC_%ED%8C%8C%EC%9D%B4%EC%8D%AC.pdf)
